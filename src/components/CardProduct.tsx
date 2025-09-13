@@ -1,4 +1,3 @@
-import React from 'react'
 import type { ProductModel, RelatedProductModel } from '../redux/reducers/productReducer'
 import { NavLink } from 'react-router-dom'
 
